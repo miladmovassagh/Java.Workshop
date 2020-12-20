@@ -2,9 +2,7 @@ package controller;
 
 import model.entity.StoreEntity;
 import model.service.StoreService;
-import view.ClothingDelete;
-import view.ClothingEdit;
-import view.ClothingRegistration;
+import view.*;
 
 import javax.swing.*;
 import java.util.List;

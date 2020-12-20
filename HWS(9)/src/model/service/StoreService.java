@@ -1,7 +1,7 @@
 package model.service;
 
-import model.entity.StoreEntity;
 import model.repository.StoreRepository;
+import model.entity.StoreEntity;
 
 import java.util.List;
 
